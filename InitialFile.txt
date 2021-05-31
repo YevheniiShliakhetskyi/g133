@@ -1,3 +1,7 @@
 1234
+<<<<<<< HEAD
+cosmos
+=======
 adrthsrthghnghnrt   rht
+>>>>>>> c2218adb10a82b663162a17f4426a227b47d66c4
 Test
