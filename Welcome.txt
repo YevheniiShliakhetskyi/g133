@@ -3,6 +3,8 @@
 <head>
 
 <title>Welcome friends</title>
+<title>Welcome friends</title>
+<title>Welcome friends</title>
 
 </head>
 
